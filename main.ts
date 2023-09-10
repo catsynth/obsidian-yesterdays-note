@@ -1,7 +1,6 @@
-import { isMoment } from 'moment';
+import * as moment from 'moment';
 import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting } from 'obsidian';
 import { getAllDailyNotes, getDailyNote, createDailyNote } from  'obsidian-daily-notes-interface'
-import type { Moment } from "moment";
 
 // Remember to rename these classes and interfaces!
 
