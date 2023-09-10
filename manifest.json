@@ -1,7 +1,7 @@
 {
 	"id": "yesterdays-note",
 	"name": "Yesterday's Daily Note",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Access the daily note from the previous day",
 	"author": "Amanda Chaudhary",
